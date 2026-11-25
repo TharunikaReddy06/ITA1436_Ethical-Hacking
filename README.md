@@ -30,9 +30,6 @@ Each experiment includes the required:
 * Output
 * Result
 
-3. Research Assessment
-
-Contains the final research assessment submitted at the end of the course.
 
 Course
 

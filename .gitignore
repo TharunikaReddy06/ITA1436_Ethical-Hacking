@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+env/
+venv/
+.venv/
+
+# Environment Variables & Secrets
+.env
+.env.*
+*.secret
+
+# Uploads cache
+DarkWatch/backend/uploads/*
+!DarkWatch/backend/uploads/.gitkeep
+
+# Operating System
+.DS_Store
+Thumbs.db
